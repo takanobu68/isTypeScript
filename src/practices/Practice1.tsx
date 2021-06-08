@@ -4,7 +4,7 @@ export const Practice1 = () => {
     console.log(total);
   };
   const onClickPractice = () => {
-    calcTotalFee("1000");
+    calcTotalFee(1000);
   };
   return (
     <div>
